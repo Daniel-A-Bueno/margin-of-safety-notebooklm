@@ -253,11 +253,11 @@ Este projeto demonstra não apenas o entendimento de conceitos financeiros, mas 
 
 ## 🔗 Notebook Original
 
-Para explorar o material completo, incluindo interações com IA e fontes originais, acesse:
+Para explorar o material completo, incluindo interações com IA e fontes originais:
 
-[🔗 NotebookLM – Margem de Segurança]([SEU_LINK_AQUI](https://notebooklm.google.com/notebook/219b516e-ef1c-4f58-b6e1-e528d4cb9901))
+👉 [Acessar NotebookLM – Margem de Segurança](https://notebooklm.google.com/notebook/219b516e-ef1c-4f58-b6e1-e528d4cb9901)
 
 📌 Este notebook contém:
-- 38 fontes analisadas
-- interações completas com IA
-- construção progressiva do conhecimento
+- 38 fontes analisadas  
+- interações completas com IA  
+- construção progressiva do conhecimento  
