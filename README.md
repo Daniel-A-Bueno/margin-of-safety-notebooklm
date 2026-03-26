@@ -249,4 +249,15 @@ Este projeto demonstra não apenas o entendimento de conceitos financeiros, mas 
 
 - Estruturar conhecimento complexo  
 - Utilizar IA de forma estratégica  
-- Aplicar pensamento crítico em decisões sob incerteza  
+- Aplicar pensamento crítico em decisões sob incerteza
+
+## 🔗 Notebook Original
+
+Para explorar o material completo, incluindo interações com IA e fontes originais, acesse:
+
+[🔗 NotebookLM – Margem de Segurança](SEU_LINK_AQUI)
+
+📌 Este notebook contém:
+- 38 fontes analisadas
+- interações completas com IA
+- construção progressiva do conhecimento
